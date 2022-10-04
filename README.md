@@ -1,26 +1,9 @@
 # CrabGame Cheat
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O5O178FHD)
 
-![GitHub all releases](https://img.shields.io/github/downloads/CodeName-Anti/CrabGame-Cheat/total?color=%23FF8C00&style=flat-square)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/CodeName-Anti/CrabGame-Cheat?style=flat-square)
-
-A Cheat for [CrabGame](https://store.steampowered.com/app/1782210/Crab_Game/) by [DaniDev](https://www.youtube.com/c/DaniDev).
+A Cheat for [CrabGame](https://store.steampowered.com/app/1782210/Crab_Game/) by quzix.
 
 ## **DISCLAIMER**
 **This software is for testing/educational purposes only. We do not encourage using it when you're not allowed, and will not bear liability for your actions.**
-
-## Installing/Updating with the Installer
-
-### Installing
- 1. Download the [CrabGame Cheat Installer](https://github.com/CodeName-Anti/CrabGame-Cheat/releases/latest/download/CrabGame_Cheat_Installer.exe).
- 2. Open the Installer.
- 3. Press the Install Button
-
-### Updating
-1. Download the [CrabGame Cheat Installer](https://github.com/CodeName-Anti/CrabGame-Cheat/releases/latest/download/CrabGame_Cheat_Installer.exe) if you haven't already.
- 2. Open the Installer.
- 3. Press the Update Button.
-
 
 ## Manual Installation
  1. Download [BepInEx 6.0.0-pre.1](https://github.com/BepInEx/BepInEx/releases/download/v6.0.0-pre.1/BepInEx_UnityIL2CPP_x64_6.0.0-pre.1.zip).
